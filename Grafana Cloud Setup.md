@@ -24,8 +24,6 @@ Review the available subscription plans and select the one that aligns with your
 
 ### 4. Explore the Dashboards and Panels
 
-Based on what we discussed in Chapter One, explore the dashboards and panels.
-
 For more information, see the **Get Started with Grafana Cloud** documentation:
 
 https://grafana.com/docs/grafana-cloud/get-started/
